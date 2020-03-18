@@ -1,11 +1,7 @@
-# React Tetris - Starter files
+# React Tetris 
 
-This is the starter files for the React-Tetris tutorial, you will find: 
+Classic Tetric game built using React and React hooks, bootstrapped with Create-React-App
 
-1. The background (from Unsplash, Clemen Vrankar).
-2. The font (author: Sizenko Alexander, www.styleseven.com, The fonts Pixel LCD-7 is freeware for home using.)
-3. useInterval.js hook created by Dan Abramov.
-4. Stepped Solutions
-5. Finished game
+Project was coded along with this tutorial from FreeCodeCamp: https://www.youtube.com/watch?v=ZGOaCxX8HIU&t=18s
 
-Have fun! ;)
+
